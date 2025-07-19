@@ -28,11 +28,11 @@ We imported high-quality, BPA-free, foldable silicone lunchboxes from China, off
 - **Donation:** €300 raised for the FoodBank
 
 ## 📊 Project Deliverables
-- [Business Plan (PDF)](./B2_IBPENT121R2_204.2_OP1.docx)
-- [Annual Report (PDF)](./Annual_Report_CM204.2_FoldaBox.docx)
-- [Pitch Deck](./Practice Shareholder Presentation FoldaBox.pptx)
-- [Financial Forecast](./204.2 Forecasting model .xlsx)
-- [P&L Statement](./P&L Final FoldaBox.xlsx)
+- Shareholder Pitch
+- Business Plan
+- Financial & Sales Forecast
+- Quarterly Report
+- P&L Statement 
 
 ## 🧠 Lessons Learned
 - Market research is essential to successful positioning
