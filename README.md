@@ -41,6 +41,24 @@ We imported high-quality, BPA-free, foldable silicone lunchboxes from China, off
 ### 🔄 Unfolded Blue Set Stack
 ![Unfolded Blue Set](./04_Unfolded_Blue_Set.jpg)
 
+### 🖼️ Brand Assets & Certificates
+
+#### 🔖 Fold-A-Box Logo
+![Logo](./assets/01_Foldabox_Logo.jpg)
+
+#### ✅ Supplier Certifications
+![Certifications](./assets/02_Supplier_Certifications.jpg)
+
+#### 🎯 Raffle Campaigns
+**Ad 1: Audi A3 Rental Giveaway**
+![Ad1](./assets/03_Raffle_Ad_Audi_A3.jpg)
+
+**Ad 2.1: 3-Course Meal (Theme 1)**
+![Ad2.1](./assets/04_Raffle_Ad_Euromast_1.jpg)
+
+**Ad 2.2: 3-Course Meal (Theme 2)**
+![Ad2.2](./assets/05_Raffle_Ad_Euromast_2.jpg)
+
 ## 📊 Project Deliverables
 - Shareholder Pitch
 - Business Plan
