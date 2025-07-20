@@ -80,5 +80,3 @@ View full brand visuals and layout ➜ [Fold-A-Box Website Gallery](./gallery/RE
 Thanks to our investors, advisors, and the Rotterdam Business School faculty.
 
 ---
-
-*This project demonstrates practical application of international business and entrepreneurship principles, from market entry and supply chain decisions to finance, CSR, and product marketing.*
