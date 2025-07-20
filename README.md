@@ -59,6 +59,10 @@ We imported high-quality, BPA-free, foldable silicone lunchboxes from China, off
 **Ad 2.2: 3-Course Meal (Theme 2)**
 ![Ad2.2](./05_Raffle_Ad_Euromast_2.jpg)
 
+### 📸 Website Screenshots & Design Overview
+
+View the full visual gallery ➜ [Fold-A-Box Website Gallery](./gallery/README.md)
+
 ## 📊 Project Deliverables
 - Shareholder Pitch
 - Business Plan
