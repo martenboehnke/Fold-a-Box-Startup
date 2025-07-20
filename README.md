@@ -3,6 +3,13 @@
 ## 📦 Overview
 Fold-A-Box was a student-led import and sales startup launched as part of a commerce project at Rotterdam Business School. Our mission: offer a practical, sustainable lunchbox that folds to save space — while achieving real-world business results across procurement, marketing, and financial performance.
 
+<p align="center">
+  <a href="https://vimeo.com/1102886291?share=copy#t=0" target="_blank">
+    <img src="./gallery/video-thumbnail.jpg" alt="Watch our promo video" width="600">
+  </a>
+</p>
+
+
 ## 🎯 Problem & Solution
 ### Problem
 Traditional lunchboxes take up unnecessary space after use, offer little flexibility, and lack sustainability.
