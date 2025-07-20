@@ -25,7 +25,21 @@ We imported high-quality, BPA-free, foldable silicone lunchboxes from China, off
 - **Gross Profit:** €1,532
 - **Net Profit:** €1,017
 - **ROI for Investors:** 13%
-- **Donation:** €300 raised for the FoodBank
+- **Donation:** €150 raised for the FoodBank
+
+## 📸 Product Gallery
+
+### 📦 1200ml Green, Blue and Pink Boxes
+![1200ml Boxes](./01_1200ml_Green_Blue_Pink.jpg)
+
+### 📦 Fold-a-Box Sets in All Colors
+![Fold-a-Box Sets](./02_FoldABox_Sets_Green_Blue_Pink.jpg)
+
+### 🍓 Fold-a-Box in Use (800ml with Food)
+![Box with Fruit](./03_800ml_Green_Box_With_Food.jpg)
+
+### 🔄 Unfolded Blue Set Stack
+![Unfolded Blue Set](./04_Unfolded_Blue_Set.jpg)
 
 ## 📊 Project Deliverables
 - Shareholder Pitch
