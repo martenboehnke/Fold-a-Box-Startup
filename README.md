@@ -42,8 +42,7 @@ We imported high-quality, BPA-free, foldable silicone lunchboxes from China, off
 ![Unfolded Blue Set](./04_Unfolded_Blue_Set.jpg)
 
 ## 🏅 Certificates & Marketing Materials
-
-View Marketing Materials and Certifications ➜[View Ads & Certifications Gallery](./gallery-ads/README.md)
+View marketing campaigns and credentials ➜ [Fold-A-Box Ads & Certifications Gallery](./gallery-ads/README.md)
 
 ## 🖼️ Website Screenshots
 View full brand visuals and layout ➜ [Fold-A-Box Website Gallery](./gallery/README.md)
